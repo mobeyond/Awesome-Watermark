@@ -4,4 +4,4 @@ $pip install invisible-watermark
 
 But for neural network implementation, I'd like to recommend Facebook(Meta) research's work, which can be found in the companion repository here:
 https://github.com/mobeyond/watermark-freedom
-forked from facebookresearch/watermark-anything
+forked from https://github.com/facebookresearch/watermark-anything
