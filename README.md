@@ -1,5 +1,5 @@
 # Awesome Watermarking Resources Index
-Everything we need to know about Watermark **[Complete List]([https://github.com/mobeyond/Awesome-Watermark/blob/main/Complete-Awesome-Links.md])**
+Everything we need to know about Watermark **[Complete List](https://github.com/mobeyond/Awesome-Watermark/blob/main/Complete-Awesome-Links.md)**
 
 This page serves as an index to curated "Awesome" lists on watermarking techniques in AI, diffusion models, generative AI, and model protection. Below, you'll find brief overviews of each repository, followed by direct links and additional details for easy navigation. These repositories compile research papers, including key survey papers, on intellectual property protection, content traceability, and related topics in deep learning and generative models.
 
