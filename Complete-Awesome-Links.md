@@ -33,7 +33,7 @@ This page aggregates all unique research papers and survey links from the four s
 - A Transfer Attack to Image Watermarks (2024) by N/A [https://arxiv.org/abs/2403.15365]
 - EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection (2024) by N/A [https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_EditGuard_Versatile_Image_Watermarking_for_Tamper_Localization_and_Copyright_Protection_CVPR_2024_paper.pdf]
 - Latent Watermark: Inject and Detect Watermarks in Latent Diffusion Space (2024) by N/A [https://arxiv.org/abs/2404.00230]
-- Deep Watermarking for Deep Intellectual Property Protection: A Comprehensive Survey (2024) by N/A [https://papers.ssrn.com/sol3/Delivery.cfm/f9d1a497-01d6-4174-90bd-c81d0a38946d-MECA.pdf?abstractid=4697020&mirid=1]
+- Deep Watermarking for Deep Intellectual Property Protection: A Comprehensive Survey (2024) by N/A [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4697020]
 - Intellectual Property Protection of Deep Neural Network Models Based on Watermarking Technology (2024) by N/A [https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202440413.pdf]
 - Research Progress on Deep Neural Network Model Watermarking (2024) by N/A [https://jns.usst.edu.cn/shlgdxxbzk/article/pdf/20240301?st=article_issue]
 
