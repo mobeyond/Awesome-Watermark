@@ -78,7 +78,7 @@ This page aggregates all unique research papers and survey links from the four s
 - Watermarking Neural Network with Compensation Mechanism (2020) by Jialong Zhang et al. [https://link.springer.com/content/pdf/10.1007/978-3-030-55393-7_33.pdf]
 - Reversible Watermarking in Deep Convolutional Neural Networks for Integrity Authentication (2020) by Wei Liu et al. [http://proceedings.mlr.press/v139/liu21x/liu21x.pdf]
 - Radioactive data: tracing through training (2020) by Nicholas Carlini et al. [https://arxiv.org/pdf/2002.00937]
-- StegaStamp: Invisible Hyperlinks in Physical Photographs (2020) by N/A [https://ieeexplore.ieee.org/document/9150789]
+- StegaStamp: Invisible Hyperlinks in Physical Photographs (2020) by N/A [https://arxiv.org/abs/1904.05343]
 
 ## 2019
 - DeepMarks: A Digital Fingerprinting Framework for Deep Neural Networks (2019) by Bita Darvish Rouhani et al. [https://arxiv.org/pdf/1804.03648v1]
